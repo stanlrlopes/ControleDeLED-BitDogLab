@@ -26,25 +26,6 @@ A BitDogLab já possui todos os componentes necessários, e os seguintes pinos s
 - **SDK do Raspberry Pi Pico** instalado
 - **CMake** e **Make**
 
-### 📂 Clonando o Repositório
-```sh
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
-```
-
-### 🔧 Compilando o Código
-1. Crie uma pasta para a build:
-```sh
-mkdir build && cd build
-```
-2. Configure o projeto:
-```sh
-cmake ..
-```
-3. Compile o código:
-```sh
-make
-```
 4. Copie o arquivo gerado (`.uf2`) para o **Raspberry Pi Pico W**.
 
 ### 🖥️ Monitoramento do Microfone

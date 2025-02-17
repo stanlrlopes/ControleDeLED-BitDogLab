@@ -39,9 +39,6 @@ Ou, no Windows, utilize o **PuTTY**.
 - **Limite de detecção de som (`SOUND_THRESHOLD`)**: Pode ser ajustado no código para melhor sensibilidade.
 - **Atrasos (`sleep_ms`)**: Pequenas alterações podem evitar leituras falsas.
 - **Teste os valores do microfone** via terminal para definir corretamente os parâmetros.
-
-## 📜 Licença
-Este projeto é de código aberto sob a licença **MIT**.
-
 ---
-✉️ Em caso de dúvidas, contribuições ou sugestões, sinta-se à vontade para abrir um **issue** ou enviar um **pull request**! 🚀
+Feito por [Stanlr Lopes](https://github.com/stanlrlopes)
+Aluno EmbarcaTech 2025

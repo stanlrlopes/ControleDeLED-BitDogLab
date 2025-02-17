@@ -41,4 +41,4 @@ Ou, no Windows, utilize o **PuTTY**.
 - **Teste os valores do microfone** via terminal para definir corretamente os parâmetros.
 ---
 Feito por [Stanlr Lopes](https://github.com/stanlrlopes)
-Aluno EmbarcaTech 2025
+Aluno EmbarcaTech (IFPI) 2025
